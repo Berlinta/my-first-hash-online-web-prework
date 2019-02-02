@@ -29,6 +29,6 @@ def adding
    
    puts shipping_manifest
  end
- end
+
    # return the shipping_manifest hash below
 
